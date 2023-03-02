@@ -1,5 +1,4 @@
 #!/bin/bash
-
 PSQL="psql -X -U freecodecamp -d periodic_table --tuples-only -c"
 NOT_FOUND="I could not find that element in the database."
 
